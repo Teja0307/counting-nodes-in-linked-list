@@ -1,1 +1,1 @@
-# counting-nodes-in-linked-list
+# counting-nodes-in-a-singly-linked-list
